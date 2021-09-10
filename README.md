@@ -19,7 +19,7 @@
   </img>
 </a>
 
-# Discord About Me Customisation
+# Discord Profile Customisation
 
 Discord About Me Customisation
 
