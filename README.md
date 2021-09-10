@@ -10,6 +10,14 @@
   <img src="https://img.shields.io/github/stars/Seenkid/discord-profile-customisation?style=flat-square">
   </img>
 </a>
+<a href="https://github.com/SeenKid/discord-profile-customisation"> 
+  <img src="https://img.shields.io/github/forks/Seenkid/discord-profile-customisation?style=flat-square">
+  </img>
+</a>
+<a href="https://github.com/SeenKid/discord-profile-customisation"> 
+  <img src="https://img.shields.io/github/commit-activity/m/Seenkid/discord-profile-customisation?style=flat-square">
+  </img>
+</a>
 
 # Discord About Me Customisation
 
