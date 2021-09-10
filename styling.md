@@ -70,7 +70,7 @@ discord user since <t:1509291306:R>
   - You can use [Fancy Text Generator](https://lingojam.com/FancyTextGenerator) to make cool police fonts
   - You can use [Cool Fancy Text Generator](https://coolsymbol.com/cool-fancy-text-generator.html) to make cool police fonts
   - You can use [Smiley.cool lines](https://smiley.cool/lines.php) to make lines
-  - You can use [Smiley.cool lines](https://smiley.cool/waves.php) to make waves
+  - You can use [Smiley.cool waves](https://smiley.cool/waves.php) to make waves
 
 # Aknowledgements
 
