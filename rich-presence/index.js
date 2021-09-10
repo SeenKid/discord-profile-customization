@@ -6,16 +6,18 @@ client.on('ready', () => {
 client.request('SET_ACTIVITY', {
 pid: process.pid,
 activity : {
-details : "🌹 FrenchRobloxCommunity 🌹",
-state: "🌴✨ Rejoins nous ✨🌴",
+details : "🌹 Your Server Name 🌹",
+state: "🌴✨ Some texts ✨🌴",
 assets : {
 large_image : "bhop",
-large_text : "🌹 FrenchRobloxCommunity 🌹"
+large_text : "🌹 Your Server Name 🌹"
 },
-buttons : [{label : "Lien 1❤️" , url : "https://discord.gg/frcv3"},{label : "Lien 2💎", url : "https://discord.gg/V5H33qubw3"}]
+buttons : [{label : "Lien 1❤️" , url : "Your Server Link"},{label : "Lien 2💎", url : "Another rando stuff"}]
 }
 })
 })
 client.login({ 
-	clientId : "820236976439164949" 
+	clientId : "CLIENT_ID" 
 }).catch(console.error);
+
+/* Remplace CLIENT_ID */ 
