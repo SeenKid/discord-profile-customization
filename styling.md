@@ -1,4 +1,4 @@
-# Styling
+# Styling & formating for your about-me
 
 ## Default Styles
 
@@ -40,7 +40,7 @@ __underlined__
 
 - Unicode Characters
   - `🍉`
-  - You can use https://smiley.cool/emoji-list.php to get emojies
+  - You can use [Smiley.cool emojilist](https://smiley.cool/emoji-list.php) to get emojies
 
 ## Timestamps
 
@@ -65,6 +65,12 @@ For example :
 
 alive since <t:1072712400:R>
 discord user since <t:1509291306:R> 
+
+## Texts & Formating 
+You can use [Fancy Text Generator](https://lingojam.com/FancyTextGenerator) to make cool police fonts
+You can use [Cool Fancy Text Generator](https://coolsymbol.com/cool-fancy-text-generator.html) to make cool police fonts
+You can use [Smiley.cool lines](https://smiley.cool/lines.php) to make lines
+You can use [Smiley.cool lines](https://smiley.cool/waves.php) to make waves
 
 # Aknowledgements
 
