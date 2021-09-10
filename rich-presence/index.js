@@ -7,12 +7,12 @@ client.request('SET_ACTIVITY', {
 pid: process.pid,
 activity : {
 details : "🌹 Your Server Name 🌹",
-state: "🌴✨ Some texts ✨🌴",
+state: "🌴Some texts🌴",
 assets : {
 large_image : "bhop",
 large_text : "🌹 Your Server Name 🌹"
 },
-buttons : [{label : "Lien 1❤️" , url : "Your Server Link"},{label : "Lien 2💎", url : "Another rando stuff"}]
+buttons : [{label : "Link1" , url : "Your Server Link"},{label : "link2", url : "rando stuff"}]
 }
 })
 })
