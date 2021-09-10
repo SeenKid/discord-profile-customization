@@ -1,4 +1,7 @@
-[](https://img.shields.io/github/downloads/SeenKid/discord-profile-customisation/total?style=flat-square)
+<a href="https://github.com/SeenKid/discord-profile-customisation"> 
+  <img src="https://img.shields.io/github/downloads/SeenKid/discord-profile-customisation/total?style=flat-square"><
+  /img>
+</a>
 
 # Discord About Me Customisation
 
