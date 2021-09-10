@@ -5,7 +5,7 @@
   - create an app
   - go in "rich presence" and add images
 
-## Step 2 : Installe NodeJS
+## Step 2 : Install NodeJS
   - Go to [NodeJS](https://nodejs.org/) and download / install the software
   - open nodejs console and go to your index.js directory (cd C:\Users...)
   - write in the console : npm install <module> and install all the modules
