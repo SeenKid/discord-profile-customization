@@ -4,7 +4,7 @@ Discord About Me Customisation
 
 # Important
 
-It feels empty here, we need contributors :) You can simply create pull requests.
+If you want to help the project, you can fork it or directly make pull request on <a href="https://github.com/Heyimlulu/Discord-About-Me-Customisation">Lulu's project</a>
 
 # Contribution guidelines
 
