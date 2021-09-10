@@ -1,11 +1,3 @@
-# Discord About Me Customisation
-
-Discord About Me Customisation
-
-# Important
-
-It feels empty here, we need contributors :) You can simply create pull requests.
-
 # Contribution guidelines
 
 - Images must have descriptive file names in the following format:
