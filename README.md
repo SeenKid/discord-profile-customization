@@ -1,5 +1,5 @@
 <a href="https://github.com/SeenKid/discord-profile-customisation"> 
-  <img src="https://img.shields.io/github/downloads/SeenKid/discord-profile-customisation/total?style=flat-square">
+  <img src="https://img.shields.io/github/downloads/SeenKid/discord-profile-customisation/total?color=blue&style=flat-square">
   </img>
 </a>
 <a href="https://github.com/SeenKid/discord-profile-customisation"> 
