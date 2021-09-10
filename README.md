@@ -1,3 +1,5 @@
+[](https://img.shields.io/github/downloads/SeenKid/discord-profile-customisation/total?style=flat-square)
+
 # Discord About Me Customisation
 
 Discord About Me Customisation
