@@ -6,6 +6,10 @@
 ```
 *italics* or _italics_
 ```
+### Underline
+```
+__underlined__
+```
 
 ### Bold
 ```
@@ -36,6 +40,7 @@
 
 - Unicode Characters
   - `🍉`
+  - You can use https://smiley.cool/emoji-list.php to get emojies
 
 ## Timestamps
 
@@ -56,6 +61,12 @@ You can use an [Unix Timestamp Converter](https://www.epochconverter.com/) for e
 | F |	Tuesday, 20 April 2021 16:20 |	Long Date/Time |
 | R |	2 months ago |	Relative Time |
 
+For example :
+
+alive since <t:1072712400:R>
+discord user since <t:1509291306:R> 
+
 # Aknowledgements
 
 - [Discord](https://discord.com/developers/docs/intro) for their docs and text formatting examples
+- [Unix Timestamp Converter](https://www.epochconverter.com/) easy converter
