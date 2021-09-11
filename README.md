@@ -27,6 +27,8 @@ Discord About Me Customisation
 
 If you want to help the project, you can fork it or directly make pull request here. (Not sure to accept them.)
 
+Original project made by [HeyImLulu](https://github.com/Heyimlulu/).
+
 # Contribution guidelines
 
 - Images must have descriptive file names in the following format:
