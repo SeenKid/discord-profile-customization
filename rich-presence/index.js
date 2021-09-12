@@ -9,7 +9,7 @@ activity : {
 details : "🌹 Your Server Name 🌹",
 state: "🌴Some texts🌴",
 assets : {
-large_image : "bhop",
+large_image : "YOUR_IMAGE_NAME",
 large_text : "🌹 Your Server Name 🌹"
 },
 buttons : [{label : "Link1" , url : "Your Server Link"},{label : "link2", url : "rando stuff"}]
@@ -21,3 +21,4 @@ client.login({
 }).catch(console.error);
 
 /* Remplace CLIENT_ID */ 
+/* Remplace YOUR_IMAGE_NAME */
