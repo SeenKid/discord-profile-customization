@@ -29,6 +29,10 @@ If you want to help the project, you can fork it or directly make pull request h
 
 Original project made by [HeyImLulu](https://github.com/Heyimlulu/).
 
+# My Discord
+
+You can join my discord here : [FRC](https://discord.gg/YH8Qbjr2sJ).
+
 # Contribution guidelines
 
 - Images must have descriptive file names in the following format:
