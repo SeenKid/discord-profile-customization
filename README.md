@@ -32,7 +32,7 @@ Original project made by [HeyImLulu](https://github.com/Heyimlulu/).
 
 # My Discord
 
-You can join my discord here : [FRC](https://discord.gg/YH8Qbjr2sJ).
+You can join my discord here : [SpaceWatch](https://discord.gg/YH8Qbjr2sJ).
 
 # Contribution guidelines
 
