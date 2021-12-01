@@ -22,7 +22,7 @@
 
 # Discord Profile Customisation
 
-Discord About Me Customisation
+Discord About Me Customisation - A simple way to have a beautiful discord profile !
 
 # Important
 
