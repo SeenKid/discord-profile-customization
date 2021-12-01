@@ -28,7 +28,7 @@ __underlined__
 
 ### Code Blocks
 ```
-`This is a code block`
+`This is a code block` or ```This is a code block too```
 ```
 
 ### Spoiler
