@@ -8,3 +8,4 @@
 - All customisations added must not be a copy-paste of another contributor or feel free to open a pull request if you want to make editing
 
 - **No nudity or NSFW related content**
+- If these rules are not respected, your contributions will not be added to the project.
