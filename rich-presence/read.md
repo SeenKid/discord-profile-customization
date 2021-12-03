@@ -14,22 +14,22 @@
 Launch the app and there we go.
 
   
-  * Modules list : 
+  ## Modules list : 
   
-  -@discordjs
-  -abort-controller
-  -asynckit
-  -combined-stream
-  -delayed-stream
-  -discord.js
-  -discord-rpc
-  -event-target-shim
-  -mime-db
-  -mime-types
-  -node-fetch
-  -prism-media
-  -setimmediate
-  -tweetnacl
-  -ws
+  - @discordjs
+  - abort-controller
+  - asynckit
+  - combined-stream
+  - delayed-stream
+  - discord.js
+  - discord-rpc
+  - event-target-shim
+  - mime-db
+  - mime-types
+  - node-fetch
+  - prism-media
+  - setimmediate
+  - tweetnacl
+  - ws
   
   
