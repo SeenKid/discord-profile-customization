@@ -28,8 +28,6 @@ Discord About Me Customisation - A simple way to have a beautiful discord profil
 
 If you want to help the project, you can fork it or directly make pull request here. (Not sure to accept them.)
 
-Original project made by [HeyImLulu](https://github.com/Heyimlulu/).
-
 # My Discord
 
 You can join my discord here : [SpaceWatch](https://discord.gg/YH8Qbjr2sJ).
@@ -44,3 +42,6 @@ You can join my discord here : [SpaceWatch](https://discord.gg/YH8Qbjr2sJ).
 - All customisations added must not be a copy-paste of another contributor or feel free to open a pull request if you want to make editing
 
 - **No nudity or NSFW related content**
+
+
+Original project made by [HeyImLulu](https://github.com/Heyimlulu/). 
