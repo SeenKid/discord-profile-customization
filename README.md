@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/github/commit-activity/m/Seenkid/discord-profile-customization?style=flat-square">
   </img>
 </a>
-<img src="https://visitor-badge.glitch.me/badge?page_id=SeenKid.discord-profile-customization" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=SeenKid.discord-profile-customisation" />
 
 # Discord Profile customization
 
