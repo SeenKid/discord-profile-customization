@@ -1,14 +1,14 @@
-<a href="https://github.com/SeenKid/discord-profile-customisation"> 
-  <img src="https://img.shields.io/github/downloads/SeenKid/discord-profile-customisation/total?color=blue&style=flat-square">
-<a href="https://github.com/SeenKid/discord-profile-customisation"> 
-  <img src="https://img.shields.io/github/languages/code-size/Seenkid/discord-profile-customisation?style=flat-square">
-<a href="https://github.com/SeenKid/discord-profile-customisation"> 
-  <img src="https://img.shields.io/github/stars/Seenkid/discord-profile-customisation?style=flat-square">
-<a href="https://github.com/SeenKid/discord-profile-customisation"> 
-  <img src="https://img.shields.io/github/forks/Seenkid/discord-profile-customisation?style=flat-square">
-<a href="https://github.com/SeenKid/discord-profile-customisation"> 
-  <img src="https://img.shields.io/github/commit-activity/m/Seenkid/discord-profile-customisation?style=flat-square">
-<img src="https://visitor-badge.glitch.me/badge?page_id=SeenKid.discord-profile-customisation" />
+<a href="https://github.com/SeenKid/discord-profile-customization"> 
+  <img src="https://img.shields.io/github/downloads/SeenKid/discord-profile-customization/total?color=blue&style=flat-square">
+<a href="https://github.com/SeenKid/discord-profile-customization"> 
+  <img src="https://img.shields.io/github/languages/code-size/Seenkid/discord-profile-customization?style=flat-square">
+<a href="https://github.com/SeenKid/discord-profile-customization"> 
+  <img src="https://img.shields.io/github/stars/Seenkid/discord-profile-customization?style=flat-square">
+<a href="https://github.com/SeenKid/discord-profile-customization"> 
+  <img src="https://img.shields.io/github/forks/Seenkid/discord-profile-customization?style=flat-square">
+<a href="https://github.com/SeenKid/discord-profile-customization"> 
+  <img src="https://img.shields.io/github/commit-activity/m/Seenkid/discord-profile-customization?style=flat-square">
+<img src="https://visitor-badge.glitch.me/badge?page_id=SeenKid.discord-profile-customization" />
 
 # Discord Profile Customisation
 
