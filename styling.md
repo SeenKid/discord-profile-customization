@@ -62,9 +62,8 @@ You can use an [Unix Timestamp Converter](https://www.epochconverter.com/) for e
 | R |	2 months ago |	Relative Time |
 
 For example :
-
-alive since <t:1072712400:R> == Alive since December 29, 2003
-discord user since <t:1509291306:R> == discord user since October 29, 2017
+  - alive since <t:1072712400:R> == Alive since December 29, 2003
+  - discord user since <t:1509291306:R> == discord user since October 29, 2017
 
 ## Texts & Formating 
   - You can use [Fancy Text Generator](https://lingojam.com/FancyTextGenerator) to make cool police fonts
