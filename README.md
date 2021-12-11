@@ -28,6 +28,7 @@ Discord About Me customization - A simple way to have a beautiful discord profil
 
 - If you want to help the project, you can fork it or directly make pull request here. (Not sure to accept them.)
 - If you see that something is missing, a file is corrupted or unusable, please, make sure to create an issue to report this
+- You can find here the [App Wiki](https://github.com/SeenKid/discord-profile-customization/wiki)
 
 # My Discord
 
