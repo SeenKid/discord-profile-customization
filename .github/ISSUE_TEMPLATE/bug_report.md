@@ -38,14 +38,8 @@ If applicable, add screenshots to help explain your problem.
 Add any other context about the problem here.
 
 
----
-Nom: Bug report
-à propos: 
-titre: "[BUG REPORT]"
-labels: ''
-assignements: ''
+------------
 
----
 
 **Décrivez le BUG**
 Une description claire et concise de ce qu'est le BUG.
