@@ -39,11 +39,11 @@ Add any other context about the problem here.
 
 
 ---
-nom : rapport de BUG
-à propos de : Créer un rapport pour nous aider à nous améliorer
-titre : "[RAPPORT DE BUG]"
-Étiquettes: ''
-cessionnaires : ''
+Nom: Bug report
+à propos: 
+titre: "[BUG REPORT]"
+labels: ''
+assignements: ''
 
 ---
 
