@@ -47,4 +47,4 @@ You can join my discord here : [SpaceWatch](https://discord.gg/YH8Qbjr2sJ).
 - **No nudity or NSFW related content**
 
 
-Original project made by [HeyImLulu](https://github.com/Heyimlulu/). 
+Original "about-me" section made by [HeyImLulu](https://github.com/Heyimlulu/). 
