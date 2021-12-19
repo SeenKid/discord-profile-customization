@@ -1,5 +1,5 @@
 # apple logo
-
+note : this one is kinda broken, we'll fix it ASAP
 ### Copy & Paste Markdown
 
 ```          .:'
