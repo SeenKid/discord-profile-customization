@@ -30,6 +30,11 @@ Discord About Me customization - A simple way to have a beautiful discord profil
 - If you see that something is missing, a file is corrupted or unusable, please, make sure to create an issue to report this
 - You can find here the [App Wiki](https://github.com/SeenKid/discord-profile-customization/wiki)
 
+# Must Know 
+
+- We are working on an application of this and a website
+- The max characters limit in discord about-me is 190 chars.
+
 # My Discord
 
 You can join my discord here : [SpaceWatch](https://discord.gg/YH8Qbjr2sJ).
