@@ -32,7 +32,7 @@ Discord About Me customization - A simple way to have a beautiful discord profil
 
 # Must Know 
 
-- We are working on an application of this and a website
+- We are working on an application of this and a website | Website will be done first.
 - The max characters limit in discord about-me is 190 chars.
 
 # My Discord
