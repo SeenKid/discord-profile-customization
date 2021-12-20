@@ -1,14 +1,16 @@
 # apple logo
-note : this one is kinda broken, we'll fix it ASAP
+note : Fixed, but use 3x \` With the apple to fix it 
 ### Copy & Paste Markdown
 
-```          .:'
+```          
+```        .:'
       __ :'__
    .'`__`-'__``.
   :__________.-'
   :_________:
    :_________`-;
     `.__.-.__.'
+```
 ```
 
 # Author
