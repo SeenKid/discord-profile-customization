@@ -1,4 +1,4 @@
-﻿# Colombia Flag
+# Colombia Flag
 
 ### Copy & Paste Markdown
 
