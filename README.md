@@ -53,3 +53,35 @@ You can join my discord here : [SpaceWatch](https://discord.gg/YH8Qbjr2sJ).
 
 
 Original "about-me" section made by [HeyImLulu](https://github.com/Heyimlulu/). 
+
+# French
+
+## Important
+
+- Si vous voulez aider le projet, vous pouvez le forker ou directement faire une pull request ici. (Pas sûr de les accepter.)
+- Si vous voyez qu'il manque quelque chose, qu'un fichier est corrompu ou inutilisable, assurez-vous de créer un problème pour le signaler
+- Vous pouvez trouver ici le [App Wiki](https://github.com/SeenKid/discord-profile-customization/wiki)
+
+# Doit savoir
+
+- Nous travaillons sur une application de ceci et un site web | Le site Web sera fait en premier.
+- La limite maximale de caractères dans discord about-me est de 190 caractères.
+
+# Mon Discord
+
+Vous pouvez rejoindre mon discord ici : [SpaceWatch](https://discord.gg/YH8Qbjr2sJ).
+
+# Consignes de contribution
+
+- Les images doivent avoir des noms de fichiers descriptifs au format suivant :
+  - Awesome_File_Name.png
+
+- Ajoutez votre nouvelle personnalisation au dossier qui décrit le mieux le sujet de la personnalisation à propos de moi. Si aucun dossier existant ne s'applique, créez-en un nouveau.
+
+- Toutes les personnalisations ajoutées ne doivent pas être un copier-coller d'un autre contributeur ou n'hésitez pas à ouvrir une pull request si vous souhaitez faire de l'édition
+- Dans le cas où vous modifiez, partagez ou redistribuez notre projet, merci de nous en créditer. Nous sommes les créateurs originaux du projet.
+
+- **Pas de contenu lié à la nudité ou à la NSFW**
+
+
+Section originale "à propos de moi" réalisée par [HeyImLulu](https://github.com/Heyimlulu/).
