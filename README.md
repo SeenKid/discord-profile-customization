@@ -62,7 +62,7 @@ Original "about-me" section made by [HeyImLulu](https://github.com/Heyimlulu/).
 - Si vous voyez qu'il manque quelque chose, qu'un fichier est corrompu ou inutilisable, assurez-vous de créer un problème pour le signaler
 - Vous pouvez trouver ici le [App Wiki](https://github.com/SeenKid/discord-profile-customization/wiki)
 
-# Doit savoir
+# a savoir
 
 - Nous travaillons sur une application de ceci et un site web | Le site Web sera fait en premier.
 - La limite maximale de caractères dans discord about-me est de 190 caractères.
