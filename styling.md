@@ -36,6 +36,11 @@ __underlined__
 ||spoiler||
 ```
 
+### Quote
+```
+> text
+```
+
 ## Emoji 
 
 - Unicode Characters
