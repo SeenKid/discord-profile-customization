@@ -12,23 +12,15 @@
 
 # Discord Profile Customisation
 
-Discord About Me Customisation - A simple way to have a beautiful discord profile !
+[Discord Profile customization](https://github.com/SeenKid/discord-profile-customization/wiki)] - Un moyen simple d'avoir un beau profil discord !
 
 # Important
 
-If you want to help the project, you can fork it or directly make pull request here. (Not sure to accept them.)
+- Si vous voulez aider le projet, vous pouvez le forker ou directement faire une pull request ici. (Pas sûr de les accepter.)
+- Si vous voyez qu'il manque quelque chose, qu'un fichier est corrompu ou inutilisable, assurez-vous de créer un problème pour le signaler
 
-# My Discord
+# Mon Discord
 
-You can join my discord here : [SpaceWatch](https://discord.gg/YH8Qbjr2sJ).
+Vous pouvez rejoindre mon discord ici : [SpaceWatch](https://discord.gg/YH8Qbjr2sJ).
 
-# Contribution guidelines
-
-- Images must have descriptive file names in the following format:
-  - Awesome_File_Name.png
-
-- Add your new customisation to the folder that best describes the subject matter of the custom about me. If no existing folder applies create a new one.
-
-- All customisations added must not be a copy-paste of another contributor or feel free to open a pull request if you want to make editing
-
-- **No nudity or NSFW related content**
+# [Accéder à Discord Profile customization](https://github.com/SeenKid/discord-profile-customization/wiki)
