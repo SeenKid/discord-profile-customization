@@ -12,7 +12,7 @@
 
 # Discord Profile Customisation
 
-[Discord Profile customization](https://github.com/SeenKid/discord-profile-customization/wiki)] - Un moyen simple d'avoir un beau profil discord !
+[Discord Profile customization](https://github.com/SeenKid/discord-profile-customization/wiki) - Un moyen simple d'avoir un beau profil discord !
 
 # Important
 
