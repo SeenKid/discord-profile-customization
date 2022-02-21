@@ -1,3 +1,6 @@
+# What is a rich presence ? 
+A rich presence is something that shows to others users what you're playing on. For exemple, [check this](https://blenderartists.org/uploads/default/original/4X/1/e/8/1e8660e6601c8f4ecd9375948184b1d0d7ac4c78.png) 
+
 # How to make this work ?
 
 ## Step 1 : Create a discord application
