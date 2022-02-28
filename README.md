@@ -25,7 +25,7 @@
 Discord About Me customization - A simple way to have a beautiful discord profile !
 
 # Important
-
+- Official and easy wiki [On Gitbook](https://ac-1010.gitbook.io/discord-profile-customization/)
 - If you want to help the project, you can fork it or directly make pull request here. (Not sure to accept them.)
 - If you see that something is missing, a file is corrupted or unusable, please, make sure to create an issue to report this
 - You can find here the [App Wiki](https://github.com/SeenKid/discord-profile-customization/wiki)
@@ -58,7 +58,7 @@ Original "about-me" section made by [HeyImLulu](https://github.com/Heyimlulu/).
 # French
 
 ## Important
-
+- Wiki en français officiel : [Sur Gitbook](https://ac-1010.gitbook.io/discord-profile-customization/)
 - Si vous voulez aider le projet, vous pouvez le forker ou directement faire une pull request ici. (Pas sûr de les accepter.)
 - Si vous voyez qu'il manque quelque chose, qu'un fichier est corrompu ou inutilisable, assurez-vous de créer un problème pour le signaler
 - Vous pouvez trouver ici le [App Wiki](https://github.com/SeenKid/discord-profile-customization/wiki)
