@@ -30,6 +30,12 @@ Discord About Me customization - A simple way to have a beautiful discord profil
 - If you see that something is missing, a file is corrupted or unusable, please, make sure to create an issue to report this
 - You can find here the [App Wiki](https://github.com/SeenKid/discord-profile-customization/wiki)
 
+# Official Contributors
+
+- Uny_Ty
+- ImLuLu
+- Seenkid
+
 # Must Know 
 
 - We are working on an application of this and a website | Website will be done first.
