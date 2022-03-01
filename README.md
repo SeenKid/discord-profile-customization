@@ -21,7 +21,6 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=SeenKid.discord-profile-customisation" />
 
 # Discord Profile customization
-
 Discord About Me customization - A simple way to have a beautiful discord profile !
 
 # Important
@@ -31,19 +30,16 @@ Discord About Me customization - A simple way to have a beautiful discord profil
 - You can find here the [App Wiki](https://github.com/SeenKid/discord-profile-customization/wiki)
 
 # Official Contributors
-
 - Uny_Ty
 - ImLuLu
 - Seenkid
 
 # Must Know 
-
 - We are working on an application of this and a website | Website will be done first.
 - The max characters limit in discord about-me is 190 chars.
 - Discord made an update. You can now add custom emojis in your about-me (like server emojis)
 
 # My Discord
-
 You can join my discord here : [SpaceWatch](https://discord.gg/YH8Qbjr2sJ).
 
 # Contribution guidelines
@@ -69,18 +65,20 @@ Original "about-me" section made by [HeyImLulu](https://github.com/Heyimlulu/).
 - Si vous voyez qu'il manque quelque chose, qu'un fichier est corrompu ou inutilisable, assurez-vous de créer un problème pour le signaler
 - Vous pouvez trouver ici le [App Wiki](https://github.com/SeenKid/discord-profile-customization/wiki)
 
-# a savoir
+# Contributeurs officiels
+- Uny_Ty
+- ImLuLu
+- Seenkid
 
+# a savoir
 - Nous travaillons sur une application de ceci et un site web | Le site Web sera fait en premier.
 - La limite maximale de caractères dans discord about-me est de 190 caractères.
 - Une nouvelle mise à jour de discord permet d'ajouter des émojis personnalisés dans l'about-me (comme des émojis de serveur)
 
 # Mon Discord
-
 Vous pouvez rejoindre mon discord ici : [SpaceWatch](https://discord.gg/YH8Qbjr2sJ).
 
 # Consignes de contribution
-
 - Les images doivent avoir des noms de fichiers descriptifs au format suivant :
   - Awesome_File_Name.png
 
