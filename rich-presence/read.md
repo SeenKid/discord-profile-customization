@@ -17,7 +17,7 @@ A rich presence is something that shows to others users what you're playing on. 
 Launch the app and there we go.
 
   
-  ## Modules list : 
+  ## Modules list : Only need to install discord-rpc and discord.js
   
   - @discordjs
   - abort-controller
