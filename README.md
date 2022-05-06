@@ -89,7 +89,7 @@ Vous pouvez rejoindre mon discord ici : [SpaceWatch](https://discord.gg/YH8Qbjr2
 - Toutes les personnalisations ajoutées ne doivent pas être un copier-coller d'un autre contributeur ou n'hésitez pas à ouvrir une pull request si vous souhaitez faire de l'édition
 - Dans le cas où vous modifiez, partagez ou redistribuez notre projet, merci de nous en créditer. Nous sommes les créateurs originaux du projet.
 
-- **Pas de contenu lié à la nudité ou à la NSFW**
+- **Pas de contenu lié à la nudité ou au NSFW**
 
 
 Section originale "à propos de moi" réalisée par [HeyImLulu](https://github.com/Heyimlulu/).
