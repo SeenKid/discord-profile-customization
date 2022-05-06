@@ -13,6 +13,8 @@
 # Discord Profile Customisation
 
 [Discord Profile customization](https://github.com/SeenKid/discord-profile-customization/wiki) - Un moyen simple d'avoir un beau profil discord !
+  - Official and easy wiki [On Gitbook](https://ac-1010.gitbook.io/discord-profile-customization/)
+  - Wiki simple et officiel [On Gitbook](https://ac-1010.gitbook.io/discord-profile-customization/)
 
 # Important
 
