@@ -24,6 +24,7 @@
 
 # Discord Profile customization
 Discord About Me customization - A simple way to have a beautiful discord profile !
+This project is kinda ended. If you want to make contributions, go ahead!
 
 # Important
 - Official and easy wiki [On Gitbook](https://ac-1010.gitbook.io/discord-profile-customization/)
