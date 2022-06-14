@@ -23,4 +23,4 @@ Discord user since〢<t:1509291306:D>**
 
 # Author
 
- - ac#1010
+ - SeenKid
