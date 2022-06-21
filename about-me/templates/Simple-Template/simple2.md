@@ -13,4 +13,4 @@
 
 # Author
 
-- Lofi Boy#0001
+- SeenKid
