@@ -25,4 +25,8 @@
 
 Vous pouvez rejoindre mon discord ici : [SpaceWatch](https://discord.gg/YH8Qbjr2sJ).
 
-# [Accéder à Discord Profile customization](https://github.com/SeenKid/discord-profile-customization/wiki)
+# [Accéder à Discord Profile customization](https://github.com/SeenKid/discord-profile-customization/)
+# [WIKI Discord Profile customization](https://github.com/SeenKid/discord-profile-customization/wiki)
+# [Documentation](https://ac-1010.gitbook.io/discord-profile-customization/)
+
+
