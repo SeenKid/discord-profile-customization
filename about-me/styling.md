@@ -36,6 +36,11 @@ __underlined__
 ||spoiler||
 ```
 
+### Slash Commands
+```
+</Your_Text:0>
+```
+
 ## Emoji 
 
 - Unicode Characters
