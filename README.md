@@ -20,8 +20,6 @@
 </a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=SeenKid.discord-profile-customisation" />
 
-[![Contributors Display](https://badges.pufler.dev/contributors/SeenKid/discord-profile-customization?size=50&padding=5&bots=true)](https://github.com/SeenKid/discord-profile-customization)
-
 # Discord Profile customization
 Discord About Me customization - A simple way to have a beautiful discord profile !
 This project is kinda ended. If you want to make contributions, go ahead!
