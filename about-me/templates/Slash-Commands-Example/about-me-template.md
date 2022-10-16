@@ -3,5 +3,4 @@
 ┃:writing_hand:┃ Projects : </Nomos:0> </Australis:0> :100:
 ┃:trident:┃<t:1072712400:D> :rice_scene:
 ┃:musical_note:┃ 53 Thieves - Heights :heart: 
-┗:earth_africa:┛ Suisse :flag_ch: 
-**
+┗:earth_africa:┛ Suisse :flag_ch: **
