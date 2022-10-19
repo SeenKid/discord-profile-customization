@@ -41,6 +41,11 @@ __underlined__
 > text
 ```
 
+### Slash Command
+```
+</Your_Text_Here:0> 
+```
+
 ## Emoji 
 
 - Unicode Characters
