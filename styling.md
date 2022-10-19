@@ -41,7 +41,7 @@ __underlined__
 > text
 ```
 
-### Slash Command
+### Slash Command (Only works in About-Me Section)
 ```
 </Your_Text_Here:0> 
 ```
